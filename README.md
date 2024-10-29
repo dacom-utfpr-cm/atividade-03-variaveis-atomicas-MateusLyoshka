@@ -2,7 +2,7 @@
 # Atividade - Variáveis Atômicas
 
 1. Implemente um gerador de números sequenciais não
-bloqueante usando AtomicLong e o compareAndSet.
+bloqueante usando AtomicLong e o compareAndSet!.
 
 2. Implemente uma estrutura de dados de pilha não
 bloqueante usando o AtomicReference.
